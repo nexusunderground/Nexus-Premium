@@ -1,0 +1,3622 @@
+{
+  "version": 1,
+  "animations": [
+    {
+      "label": "Part Flying",
+      "kind": "single",
+      "id": "135373056067761"
+    },
+    {
+      "label": "Spasm Attack",
+      "kind": "single",
+      "id": "90708290447388"
+    },
+    {
+      "label": "Helicopter",
+      "kind": "single",
+      "id": "133152304982425"
+    },
+    {
+      "label": "Lean Backwards",
+      "kind": "single",
+      "id": "111768346821751"
+    },
+    {
+      "label": "Upside Down",
+      "kind": "single",
+      "id": "85664381936344"
+    },
+    {
+      "label": "Fly Forward",
+      "kind": "single",
+      "id": "10921416295"
+    },
+    {
+      "label": "Vampire",
+      "kind": "pack",
+      "run": "10921320299",
+      "walk": "10921326949",
+      "jump": "10921322186",
+      "fall": "10921321317",
+      "idle1": "10921315373",
+      "idle2": "10921316709"
+    },
+    {
+      "label": "Elderly",
+      "kind": "pack",
+      "run": "10921104374",
+      "walk": "10921111375",
+      "jump": "10921107367",
+      "fall": "10921105765",
+      "idle1": "10921101664",
+      "idle2": "10921102574"
+    },
+    {
+      "label": "Zombie",
+      "kind": "pack",
+      "run": "616163682",
+      "walk": "10921355261",
+      "jump": "10921351278",
+      "fall": "10921350320",
+      "idle1": "10921344533",
+      "idle2": "10921345304"
+    },
+    {
+      "label": "Stylish",
+      "kind": "pack",
+      "run": "10921276116",
+      "walk": "10921283326",
+      "jump": "10921279832",
+      "fall": "10921278648",
+      "idle1": "10921272275",
+      "idle2": "10921273958"
+    },
+    {
+      "label": "Mage",
+      "kind": "pack",
+      "run": "10921148209",
+      "walk": "10921152678",
+      "jump": "10921149743",
+      "fall": "10921148939",
+      "idle1": "10921144709",
+      "idle2": "10921145797"
+    },
+    {
+      "label": "Pirate",
+      "kind": "pack",
+      "run": "750783738",
+      "walk": "750785693",
+      "jump": "750782230",
+      "fall": "750780242",
+      "idle1": "750781874",
+      "idle2": "750782770"
+    },
+    {
+      "label": "Cartoony",
+      "kind": "pack",
+      "run": "10921076136",
+      "walk": "10921082452",
+      "jump": "10921078135",
+      "fall": "10921077030",
+      "idle1": "10921071918",
+      "idle2": "10921072875"
+    },
+    {
+      "label": "Robot",
+      "kind": "pack",
+      "run": "10921250460",
+      "walk": "10921255446",
+      "jump": "10921252123",
+      "fall": "10921251156",
+      "idle1": "10921248039",
+      "idle2": "10921248039"
+    },
+    {
+      "label": "R15 Default",
+      "kind": "pack",
+      "run": "507767714",
+      "walk": "507777826",
+      "jump": "507765000",
+      "fall": "507767968",
+      "idle1": "507766388",
+      "idle2": "507766666"
+    },
+    {
+      "label": "Pirate Full",
+      "kind": "pack",
+      "run": "750783738",
+      "walk": "750785693",
+      "jump": "750782230",
+      "fall": "750780242",
+      "idle1": "750781699",
+      "idle2": "750782770"
+    },
+    {
+      "label": "R15Jump",
+      "kind": "single",
+      "id": "507765000"
+    },
+    {
+      "label": "R15Climb",
+      "kind": "single",
+      "id": "507765644"
+    },
+    {
+      "label": "R15Idle",
+      "kind": "single",
+      "id": "507766388"
+    },
+    {
+      "label": "R15IdleLookAround",
+      "kind": "single",
+      "id": "507766666"
+    },
+    {
+      "label": "R15Fall",
+      "kind": "single",
+      "id": "507767968"
+    },
+    {
+      "label": "R15Tool",
+      "kind": "single",
+      "id": "507768375"
+    },
+    {
+      "label": "R15Walk",
+      "kind": "single",
+      "id": "507777826"
+    },
+    {
+      "label": "R15 Sword Slash",
+      "kind": "single",
+      "id": "522635514"
+    },
+    {
+      "label": "Pirate_Fall",
+      "kind": "single",
+      "id": "750780242"
+    },
+    {
+      "label": "Pirate_Idle",
+      "kind": "single",
+      "id": "750781874"
+    },
+    {
+      "label": "Pirate_Jump",
+      "kind": "single",
+      "id": "750782230"
+    },
+    {
+      "label": "Pirate_Lookaround",
+      "kind": "single",
+      "id": "750782770"
+    },
+    {
+      "label": "Pirate_Swim",
+      "kind": "single",
+      "id": "750784579"
+    },
+    {
+      "label": "Pirate Swim Idle",
+      "kind": "single",
+      "id": "750785176"
+    },
+    {
+      "label": "Pirate Walk",
+      "kind": "single",
+      "id": "750785693"
+    },
+    {
+      "label": "Locomotion_Robot_Walk",
+      "kind": "single",
+      "id": "10921255446"
+    },
+    {
+      "label": "Kirby - Run",
+      "kind": "single",
+      "id": "507788710"
+    },
+    {
+      "label": "ScatterGun Reload 2",
+      "kind": "single",
+      "id": "507789463"
+    },
+    {
+      "label": "Walk",
+      "kind": "single",
+      "id": "507790663"
+    },
+    {
+      "label": "R15 Sword slash ",
+      "kind": "single",
+      "id": "507793718"
+    },
+    {
+      "label": "Summoning Justu(1)",
+      "kind": "single",
+      "id": "507795002"
+    },
+    {
+      "label": ".",
+      "kind": "single",
+      "id": "507795344"
+    },
+    {
+      "label": "SH3",
+      "kind": "single",
+      "id": "507798489"
+    },
+    {
+      "label": "R15 - Mining - BoomTown",
+      "kind": "single",
+      "id": "507798912"
+    },
+    {
+      "label": "R15 fall",
+      "kind": "single",
+      "id": "507799275"
+    },
+    {
+      "label": "Attack 1 ",
+      "kind": "single",
+      "id": "507799813"
+    },
+    {
+      "label": "Kirby - Jump",
+      "kind": "single",
+      "id": "507799854"
+    },
+    {
+      "label": "SH1",
+      "kind": "single",
+      "id": "507800047"
+    },
+    {
+      "label": "SH2",
+      "kind": "single",
+      "id": "507800399"
+    },
+    {
+      "label": "R15 Jump animation",
+      "kind": "single",
+      "id": "507801348"
+    },
+    {
+      "label": "Kirby - Fall",
+      "kind": "single",
+      "id": "507801524"
+    },
+    {
+      "label": "Shoot",
+      "kind": "single",
+      "id": "507803399"
+    },
+    {
+      "label": "Attack 2",
+      "kind": "single",
+      "id": "507803890"
+    },
+    {
+      "label": "Exec1",
+      "kind": "single",
+      "id": "507804933"
+    },
+    {
+      "label": "Punch",
+      "kind": "single",
+      "id": "507805100"
+    },
+    {
+      "label": "Exec2",
+      "kind": "single",
+      "id": "507805268"
+    },
+    {
+      "label": "Exec3",
+      "kind": "single",
+      "id": "507805668"
+    },
+    {
+      "label": "Pray",
+      "kind": "single",
+      "id": "507805910"
+    },
+    {
+      "label": "R19 Walk :0",
+      "kind": "single",
+      "id": "507807250"
+    },
+    {
+      "label": "Idle",
+      "kind": "single",
+      "id": "507807442"
+    },
+    {
+      "label": "WizardAnim1",
+      "kind": "single",
+      "id": "507808650"
+    },
+    {
+      "label": "consumableMiddle",
+      "kind": "single",
+      "id": "507811138"
+    },
+    {
+      "label": "QUIT R15!",
+      "kind": "single",
+      "id": "507812088"
+    },
+    {
+      "label": "Sticky Chain",
+      "kind": "single",
+      "id": "507812249"
+    },
+    {
+      "label": "consumableCrouchMiddle",
+      "kind": "single",
+      "id": "507812580"
+    },
+    {
+      "label": "Anime3",
+      "kind": "single",
+      "id": "507812761"
+    },
+    {
+      "label": "Anim2",
+      "kind": "single",
+      "id": "507813076"
+    },
+    {
+      "label": "Standing R15",
+      "kind": "single",
+      "id": "507813266"
+    },
+    {
+      "label": "Newest Running Test 2.0",
+      "kind": "single",
+      "id": "507813274"
+    },
+    {
+      "label": "Fox off",
+      "kind": "single",
+      "id": "507813364"
+    },
+    {
+      "label": "Anim1",
+      "kind": "single",
+      "id": "507813550"
+    },
+    {
+      "label": "Block",
+      "kind": "single",
+      "id": "507813984"
+    },
+    {
+      "label": "Foxy Look",
+      "kind": "single",
+      "id": "507814478"
+    },
+    {
+      "label": "clawsdodge",
+      "kind": "single",
+      "id": "507814611"
+    },
+    {
+      "label": "#################",
+      "kind": "single",
+      "id": "507814847"
+    },
+    {
+      "label": "consumableAction",
+      "kind": "single",
+      "id": "507816137"
+    },
+    {
+      "label": "R15 Drink",
+      "kind": "single",
+      "id": "507818490"
+    },
+    {
+      "label": "Front Flip",
+      "kind": "single",
+      "id": "507818541"
+    },
+    {
+      "label": "Smash",
+      "kind": "single",
+      "id": "507819110"
+    },
+    {
+      "label": "Final Punch",
+      "kind": "single",
+      "id": "507819243"
+    },
+    {
+      "label": "Running (Idle Priority)",
+      "kind": "single",
+      "id": "507820329"
+    },
+    {
+      "label": "R15 - Black Pickaxe",
+      "kind": "single",
+      "id": "507821730"
+    },
+    {
+      "label": "Dwerk",
+      "kind": "single",
+      "id": "507823601"
+    },
+    {
+      "label": "[SXPREME] Dab",
+      "kind": "single",
+      "id": "507824399"
+    },
+    {
+      "label": "GDAD Walk",
+      "kind": "single",
+      "id": "507825724"
+    },
+    {
+      "label": "[SXPREME] Chill",
+      "kind": "single",
+      "id": "507827240"
+    },
+    {
+      "label": "GDAD Run",
+      "kind": "single",
+      "id": "507827933"
+    },
+    {
+      "label": "GDAD Stand",
+      "kind": "single",
+      "id": "507831456"
+    },
+    {
+      "label": "TGO_RightKick",
+      "kind": "single",
+      "id": "507831595"
+    },
+    {
+      "label": "Disarm",
+      "kind": "single",
+      "id": "507832389"
+    },
+    {
+      "label": "JUmp",
+      "kind": "single",
+      "id": "507833150"
+    },
+    {
+      "label": "[SXPREME] Dead",
+      "kind": "single",
+      "id": "507833444"
+    },
+    {
+      "label": "Idle Standing (Idle Priority)",
+      "kind": "single",
+      "id": "507834517"
+    },
+    {
+      "label": "GDAD Idle 1",
+      "kind": "single",
+      "id": "507835338"
+    },
+    {
+      "label": "cry",
+      "kind": "single",
+      "id": "507835990"
+    },
+    {
+      "label": "Animacion caminando (Mi primera animacion :D)",
+      "kind": "single",
+      "id": "507837487"
+    },
+    {
+      "label": "GDAD Idle 2",
+      "kind": "single",
+      "id": "507837911"
+    },
+    {
+      "label": "GDAD Idle 3",
+      "kind": "single",
+      "id": "507839864"
+    },
+    {
+      "label": "Bathroom",
+      "kind": "single",
+      "id": "507840962"
+    },
+    {
+      "label": "Idle Standing (Movement Priority)",
+      "kind": "single",
+      "id": "507841020"
+    },
+    {
+      "label": "GDAD Jump",
+      "kind": "single",
+      "id": "507841924"
+    },
+    {
+      "label": "HandSign1",
+      "kind": "single",
+      "id": "507843284"
+    },
+    {
+      "label": "[SXPREME] Boy",
+      "kind": "single",
+      "id": "507843433"
+    },
+    {
+      "label": "Yellow Bear",
+      "kind": "single",
+      "id": "507843742"
+    },
+    {
+      "label": "########",
+      "kind": "single",
+      "id": "507844817"
+    },
+    {
+      "label": "HandSign2",
+      "kind": "single",
+      "id": "507845167"
+    },
+    {
+      "label": "Better Jumping (Movement Priority)",
+      "kind": "single",
+      "id": "507845296"
+    },
+    {
+      "label": "JUMP",
+      "kind": "single",
+      "id": "507845437"
+    },
+    {
+      "label": "HandSign3",
+      "kind": "single",
+      "id": "507846063"
+    },
+    {
+      "label": "Luger_Viewmodel_Idle",
+      "kind": "single",
+      "id": "507846590"
+    },
+    {
+      "label": "Better Jumping (Idle Priority)",
+      "kind": "single",
+      "id": "507847025"
+    },
+    {
+      "label": "Scared",
+      "kind": "single",
+      "id": "507847036"
+    },
+    {
+      "label": "Push Up",
+      "kind": "single",
+      "id": "507847241"
+    },
+    {
+      "label": "GDAD Punch",
+      "kind": "single",
+      "id": "507848511"
+    },
+    {
+      "label": "Walk?",
+      "kind": "single",
+      "id": "507849693"
+    },
+    {
+      "label": "Better Falling (Idle Priority)",
+      "kind": "single",
+      "id": "507850129"
+    },
+    {
+      "label": "spearman",
+      "kind": "single",
+      "id": "507850446"
+    },
+    {
+      "label": "GDAD WIN",
+      "kind": "single",
+      "id": "507850659"
+    },
+    {
+      "label": "[SXPREME] Lay",
+      "kind": "single",
+      "id": "507851548"
+    },
+    {
+      "label": "IDLE",
+      "kind": "single",
+      "id": "507851603"
+    },
+    {
+      "label": "Better Falling (Movement Priority)",
+      "kind": "single",
+      "id": "507852539"
+    },
+    {
+      "label": "IDLE 2",
+      "kind": "single",
+      "id": "507855101"
+    },
+    {
+      "label": "idle",
+      "kind": "single",
+      "id": "507855172"
+    },
+    {
+      "label": "Idle Looking (Movement Priority)",
+      "kind": "single",
+      "id": "507855574"
+    },
+    {
+      "label": "Hand sign 4",
+      "kind": "single",
+      "id": "507857416"
+    },
+    {
+      "label": "[SXPREME] HeiI",
+      "kind": "single",
+      "id": "507859406"
+    },
+    {
+      "label": "Idle Looking (Action Priority)",
+      "kind": "single",
+      "id": "507860129"
+    },
+    {
+      "label": "Rasengan(1)",
+      "kind": "single",
+      "id": "507860331"
+    },
+    {
+      "label": "Hand Sign 5",
+      "kind": "single",
+      "id": "507861802"
+    },
+    {
+      "label": "WALKINGTEST",
+      "kind": "single",
+      "id": "507862159"
+    },
+    {
+      "label": "Rasengan(2)",
+      "kind": "single",
+      "id": "507862163"
+    },
+    {
+      "label": "dfsf",
+      "kind": "single",
+      "id": "507863083"
+    },
+    {
+      "label": "BackRoll",
+      "kind": "single",
+      "id": "507863336"
+    },
+    {
+      "label": "turn up",
+      "kind": "single",
+      "id": "507863922"
+    },
+    {
+      "label": "[SXPREME] Turn Up",
+      "kind": "single",
+      "id": "507864664"
+    },
+    {
+      "label": "Ded",
+      "kind": "single",
+      "id": "507865883"
+    },
+    {
+      "label": "KnockBack",
+      "kind": "single",
+      "id": "507866025"
+    },
+    {
+      "label": "Backflip",
+      "kind": "single",
+      "id": "507870463"
+    },
+    {
+      "label": "What_Not",
+      "kind": "single",
+      "id": "507871070"
+    },
+    {
+      "label": "Buster Arm Anim",
+      "kind": "single",
+      "id": "507871173"
+    },
+    {
+      "label": "punch 1",
+      "kind": "single",
+      "id": "507871633"
+    },
+    {
+      "label": "charger walk animation",
+      "kind": "single",
+      "id": "507871958"
+    },
+    {
+      "label": "Dash Anim",
+      "kind": "single",
+      "id": "507872927"
+    },
+    {
+      "label": "Tele Victim",
+      "kind": "single",
+      "id": "507873419"
+    },
+    {
+      "label": "kick 1",
+      "kind": "single",
+      "id": "507874682"
+    },
+    {
+      "label": "R15 run",
+      "kind": "single",
+      "id": "507875077"
+    },
+    {
+      "label": "Jump [Club Urban:rjfoxy]",
+      "kind": "single",
+      "id": "507875525"
+    },
+    {
+      "label": "Kick 2",
+      "kind": "single",
+      "id": "507876359"
+    },
+    {
+      "label": "Dab",
+      "kind": "single",
+      "id": "507877154"
+    },
+    {
+      "label": "Jump",
+      "kind": "single",
+      "id": "507877271"
+    },
+    {
+      "label": "hail",
+      "kind": "single",
+      "id": "507878372"
+    },
+    {
+      "label": "GOTTA GO FAST 2.5",
+      "kind": "single",
+      "id": "507878434"
+    },
+    {
+      "label": "Batman Punch One",
+      "kind": "single",
+      "id": "507878905"
+    },
+    {
+      "label": "final kick move",
+      "kind": "single",
+      "id": "507879151"
+    },
+    {
+      "label": "FLIP",
+      "kind": "single",
+      "id": "507879655"
+    },
+    {
+      "label": "Arm Fix 2 for Jog",
+      "kind": "single",
+      "id": "507880750"
+    },
+    {
+      "label": ".",
+      "kind": "single",
+      "id": "507881713"
+    },
+    {
+      "label": "Not_What",
+      "kind": "single",
+      "id": "507881907"
+    },
+    {
+      "label": "[AST] Search Drawer",
+      "kind": "single",
+      "id": "507882140"
+    },
+    {
+      "label": "Arm fix 3 for jog",
+      "kind": "single",
+      "id": "507882959"
+    },
+    {
+      "label": "pokeball throw",
+      "kind": "single",
+      "id": "507883263"
+    },
+    {
+      "label": "jumping animation",
+      "kind": "single",
+      "id": "507884198"
+    },
+    {
+      "label": "Armless: Idle.",
+      "kind": "single",
+      "id": "507884349"
+    },
+    {
+      "label": "bounce",
+      "kind": "single",
+      "id": "507885516"
+    },
+    {
+      "label": "WIP",
+      "kind": "single",
+      "id": "507885632"
+    },
+    {
+      "label": "WIP 2",
+      "kind": "single",
+      "id": "507889386"
+    },
+    {
+      "label": "R19 Walk:1",
+      "kind": "single",
+      "id": "507890128"
+    },
+    {
+      "label": ".",
+      "kind": "single",
+      "id": "507890737"
+    },
+    {
+      "label": "Armless: Run.",
+      "kind": "single",
+      "id": "507890837"
+    },
+    {
+      "label": "Death",
+      "kind": "single",
+      "id": "507891828"
+    },
+    {
+      "label": "RightArmSwipe",
+      "kind": "single",
+      "id": "507893067"
+    },
+    {
+      "label": "Koukaku Slash3NEW",
+      "kind": "single",
+      "id": "507893195"
+    },
+    {
+      "label": "Better Running 4 (Movement Priority)",
+      "kind": "single",
+      "id": "507893324"
+    },
+    {
+      "label": "WIP 3",
+      "kind": "single",
+      "id": "507893712"
+    },
+    {
+      "label": "LeftArmSwipe",
+      "kind": "single",
+      "id": "507894563"
+    },
+    {
+      "label": "Stance",
+      "kind": "single",
+      "id": "507896898"
+    },
+    {
+      "label": "GaunletPropeller",
+      "kind": "single",
+      "id": "507897202"
+    },
+    {
+      "label": "R19 Jump",
+      "kind": "single",
+      "id": "507898399"
+    },
+    {
+      "label": "WalkAnimation",
+      "kind": "single",
+      "id": "507898520"
+    },
+    {
+      "label": "cbro_f.awp_equip",
+      "kind": "single",
+      "id": "507899379"
+    },
+    {
+      "label": "cbro_f.awp_fire",
+      "kind": "single",
+      "id": "507899655"
+    },
+    {
+      "label": "KHRDU_SwordSwing2",
+      "kind": "single",
+      "id": "522636920"
+    },
+    {
+      "label": "R15 Sword Lunge",
+      "kind": "single",
+      "id": "522638767"
+    },
+    {
+      "label": "TempRun",
+      "kind": "single",
+      "id": "522639250"
+    },
+    {
+      "label": ">:)",
+      "kind": "single",
+      "id": "522640046"
+    },
+    {
+      "label": "Attack Two",
+      "kind": "single",
+      "id": "522640090"
+    },
+    {
+      "label": "hammer",
+      "kind": "single",
+      "id": "522644031"
+    },
+    {
+      "label": "Tails_Tails_Idle",
+      "kind": "single",
+      "id": "522644127"
+    },
+    {
+      "label": "Tails_Tails_Jump",
+      "kind": "single",
+      "id": "522644980"
+    },
+    {
+      "label": "fire 6",
+      "kind": "single",
+      "id": "522646173"
+    },
+    {
+      "label": ":(",
+      "kind": "single",
+      "id": "522646694"
+    },
+    {
+      "label": "Tails_Tails_Run",
+      "kind": "single",
+      "id": "522650318"
+    },
+    {
+      "label": "bara punch r15 anim test",
+      "kind": "single",
+      "id": "522650637"
+    },
+    {
+      "label": "JumpAnim Handstand2",
+      "kind": "single",
+      "id": "522650712"
+    },
+    {
+      "label": "Pistol Idle2",
+      "kind": "single",
+      "id": "522650782"
+    },
+    {
+      "label": "Tails_Tails_Fly",
+      "kind": "single",
+      "id": "522650874"
+    },
+    {
+      "label": "Jumping Animation (Improved)",
+      "kind": "single",
+      "id": "522652046"
+    },
+    {
+      "label": "Attack Three",
+      "kind": "single",
+      "id": "522654042"
+    },
+    {
+      "label": "qcyo",
+      "kind": "single",
+      "id": "522655121"
+    },
+    {
+      "label": "GrinderAnim",
+      "kind": "single",
+      "id": "522655298"
+    },
+    {
+      "label": "Falling Animation",
+      "kind": "single",
+      "id": "522655704"
+    },
+    {
+      "label": "Morph Exit",
+      "kind": "single",
+      "id": "522656245"
+    },
+    {
+      "label": "JumpAnim2 V2",
+      "kind": "single",
+      "id": "522657147"
+    },
+    {
+      "label": "Tails_FlyRun",
+      "kind": "single",
+      "id": "522660136"
+    },
+    {
+      "label": "Warcry",
+      "kind": "single",
+      "id": "522662125"
+    },
+    {
+      "label": "Warcry2",
+      "kind": "single",
+      "id": "522662294"
+    },
+    {
+      "label": "Climbing animation",
+      "kind": "single",
+      "id": "522663156"
+    },
+    {
+      "label": "1 second more",
+      "kind": "single",
+      "id": "522664191"
+    },
+    {
+      "label": "pay respects to the harambe ",
+      "kind": "single",
+      "id": "522665252"
+    },
+    {
+      "label": "Attack Four",
+      "kind": "single",
+      "id": "522667047"
+    },
+    {
+      "label": "Warcry3",
+      "kind": "single",
+      "id": "522668544"
+    },
+    {
+      "label": "Basic Walk Animation",
+      "kind": "single",
+      "id": "522669487"
+    },
+    {
+      "label": "Climbing Animation",
+      "kind": "single",
+      "id": "522669961"
+    },
+    {
+      "label": "nod",
+      "kind": "single",
+      "id": "522672190"
+    },
+    {
+      "label": "Dab",
+      "kind": "single",
+      "id": "522672794"
+    },
+    {
+      "label": "AtEase",
+      "kind": "single",
+      "id": "522673637"
+    },
+    {
+      "label": "Basic Jumping Animation",
+      "kind": "single",
+      "id": "522675026"
+    },
+    {
+      "label": "2-Hand Tool Swing",
+      "kind": "single",
+      "id": "522681395"
+    },
+    {
+      "label": "Basic Falling Animation",
+      "kind": "single",
+      "id": "522683034"
+    },
+    {
+      "label": "particle anim",
+      "kind": "single",
+      "id": "522686568"
+    },
+    {
+      "label": "lion_move",
+      "kind": "single",
+      "id": "522689152"
+    },
+    {
+      "label": "SwimIdle",
+      "kind": "single",
+      "id": "522690143"
+    },
+    {
+      "label": "Idle Animation 1",
+      "kind": "single",
+      "id": "522690350"
+    },
+    {
+      "label": "Stand Animation",
+      "kind": "single",
+      "id": "522690957"
+    },
+    {
+      "label": "Launch",
+      "kind": "single",
+      "id": "522691810"
+    },
+    {
+      "label": "Idle Animation 2",
+      "kind": "single",
+      "id": "522694931"
+    },
+    {
+      "label": "slashrightleft",
+      "kind": "single",
+      "id": "522695111"
+    },
+    {
+      "label": "Forward Float",
+      "kind": "single",
+      "id": "522698613"
+    },
+    {
+      "label": "animacion de linterna",
+      "kind": "single",
+      "id": "10921004718"
+    },
+    {
+      "label": "idle_Knife",
+      "kind": "single",
+      "id": "10921014307"
+    },
+    {
+      "label": "Idle_WildRiri08",
+      "kind": "single",
+      "id": "10921014340"
+    },
+    {
+      "label": "Idle_Star Platinum",
+      "kind": "single",
+      "id": "10921014356"
+    },
+    {
+      "label": "Shoot Animation",
+      "kind": "single",
+      "id": "10921027442"
+    },
+    {
+      "label": "walking munci",
+      "kind": "single",
+      "id": "10921035408"
+    },
+    {
+      "label": "adada_R15",
+      "kind": "single",
+      "id": "10921035435"
+    },
+    {
+      "label": "SingleHandForcePush | Vorphxs' Forces",
+      "kind": "single",
+      "id": "10921036023"
+    },
+    {
+      "label": "block",
+      "kind": "single",
+      "id": "10921036056"
+    },
+    {
+      "label": "throw",
+      "kind": "single",
+      "id": "10921036333"
+    },
+    {
+      "label": "WALK ANIM",
+      "kind": "single",
+      "id": "10921036905"
+    },
+    {
+      "label": "Sword1",
+      "kind": "single",
+      "id": "10921090594"
+    },
+    {
+      "label": "ThrowRock",
+      "kind": "single",
+      "id": "10921122477"
+    },
+    {
+      "label": "fallexeproto",
+      "kind": "single",
+      "id": "10921122482"
+    },
+    {
+      "label": "Accelerant mickey do linear_ghostops2003",
+      "kind": "single",
+      "id": "10921134814"
+    },
+    {
+      "label": "3DPersonARProtoReload",
+      "kind": "single",
+      "id": "10921155515"
+    },
+    {
+      "label": "TUH KAK place_Cube.004|Cube.004Action_Animation",
+      "kind": "single",
+      "id": "10921168758"
+    },
+    {
+      "label": "nightmare bone",
+      "kind": "single",
+      "id": "10921172751"
+    },
+    {
+      "label": "Walk",
+      "kind": "single",
+      "id": "10921172779"
+    },
+    {
+      "label": "R Punch1",
+      "kind": "single",
+      "id": "10921177674"
+    },
+    {
+      "label": "Skill1 Charge",
+      "kind": "single",
+      "id": "10921194922"
+    },
+    {
+      "label": "CHARACTER2_INTRO_IDLE",
+      "kind": "single",
+      "id": "10921194926"
+    },
+    {
+      "label": "Pickup end",
+      "kind": "single",
+      "id": "10921197074"
+    },
+    {
+      "label": "Pistol Holding",
+      "kind": "single",
+      "id": "10921197293"
+    },
+    {
+      "label": "MGL_ADSFire",
+      "kind": "single",
+      "id": "10921197318"
+    },
+    {
+      "label": "KunaiAir0",
+      "kind": "single",
+      "id": "10921209409"
+    },
+    {
+      "label": "Disabled Ws",
+      "kind": "single",
+      "id": "10921210313"
+    },
+    {
+      "label": "idle",
+      "kind": "single",
+      "id": "10921210422"
+    },
+    {
+      "label": "AMOGUS...ru,,,ru...............RUN fff ff FOR LIFE",
+      "kind": "single",
+      "id": "10921217254"
+    },
+    {
+      "label": "BW Idle [CHANNELS]",
+      "kind": "single",
+      "id": "10921219088"
+    },
+    {
+      "label": "be",
+      "kind": "single",
+      "id": "10921219094"
+    },
+    {
+      "label": "Equip",
+      "kind": "single",
+      "id": "10921219710"
+    },
+    {
+      "label": "shotgunreload_anim",
+      "kind": "single",
+      "id": "10921219714"
+    },
+    {
+      "label": "Run",
+      "kind": "single",
+      "id": "10921219731"
+    },
+    {
+      "label": "Roll Ws",
+      "kind": "single",
+      "id": "10921225189"
+    },
+    {
+      "label": "Take The L",
+      "kind": "single",
+      "id": "10921225194"
+    },
+    {
+      "label": "swing",
+      "kind": "single",
+      "id": "10921228177"
+    },
+    {
+      "label": "sword shot",
+      "kind": "single",
+      "id": "10921239477"
+    },
+    {
+      "label": "Fight",
+      "kind": "single",
+      "id": "10921239478"
+    },
+    {
+      "label": "Handsigns_R6",
+      "kind": "single",
+      "id": "10921239519"
+    },
+    {
+      "label": "mind lost left",
+      "kind": "single",
+      "id": "10921239559"
+    },
+    {
+      "label": "Black Leg Party Table",
+      "kind": "single",
+      "id": "10921242705"
+    },
+    {
+      "label": "Carry_R6",
+      "kind": "single",
+      "id": "10921242744"
+    },
+    {
+      "label": "WeightLift",
+      "kind": "single",
+      "id": "10921242780"
+    },
+    {
+      "label": "Ice Shard",
+      "kind": "single",
+      "id": "10921245737"
+    },
+    {
+      "label": "MGL_Unequip",
+      "kind": "single",
+      "id": "10921245739"
+    },
+    {
+      "label": "walk_teste",
+      "kind": "single",
+      "id": "10921245745"
+    },
+    {
+      "label": "BR new walk",
+      "kind": "single",
+      "id": "10921246789"
+    },
+    {
+      "label": "SWEEP_SWEEP2",
+      "kind": "single",
+      "id": "10921257702"
+    },
+    {
+      "label": "Run",
+      "kind": "single",
+      "id": "10921257811"
+    },
+    {
+      "label": "Right Orbit Start",
+      "kind": "single",
+      "id": "10921257829"
+    },
+    {
+      "label": "RUN",
+      "kind": "single",
+      "id": "10921261445"
+    },
+    {
+      "label": "Idle",
+      "kind": "single",
+      "id": "10921264824"
+    },
+    {
+      "label": "run",
+      "kind": "single",
+      "id": "10921265004"
+    },
+    {
+      "label": "Block",
+      "kind": "single",
+      "id": "10921266719"
+    },
+    {
+      "label": "calm walk 096r15",
+      "kind": "single",
+      "id": "10921266938"
+    },
+    {
+      "label": "memes",
+      "kind": "single",
+      "id": "10921267721"
+    },
+    {
+      "label": "IDLE",
+      "kind": "single",
+      "id": "10921290719"
+    },
+    {
+      "label": "Dixie Holster",
+      "kind": "single",
+      "id": "10921290852"
+    },
+    {
+      "label": "IdleSwim",
+      "kind": "single",
+      "id": "10921291165"
+    },
+    {
+      "label": "Heavy",
+      "kind": "single",
+      "id": "10921291176"
+    },
+    {
+      "label": "IDLE",
+      "kind": "single",
+      "id": "10921291765"
+    },
+    {
+      "label": "dead",
+      "kind": "single",
+      "id": "10921294156"
+    },
+    {
+      "label": "Splits2",
+      "kind": "single",
+      "id": "10921295285"
+    },
+    {
+      "label": "Locomotion_Superhero_SwimIdle",
+      "kind": "single",
+      "id": "10921297391"
+    },
+    {
+      "label": "Realistic Run anim # Peck Narm",
+      "kind": "single",
+      "id": "10921297396"
+    },
+    {
+      "label": "Zay exe (Confront yourself) left",
+      "kind": "single",
+      "id": "10921303319"
+    },
+    {
+      "label": "MMBB Run",
+      "kind": "single",
+      "id": "10921303479"
+    },
+    {
+      "label": "Anim03",
+      "kind": "single",
+      "id": "10921307033"
+    },
+    {
+      "label": "Locomotion_Toy_Fall",
+      "kind": "single",
+      "id": "10921307241"
+    },
+    {
+      "label": "PistolIdle",
+      "kind": "single",
+      "id": "10921308009"
+    },
+    {
+      "label": "SwordThrust",
+      "kind": "single",
+      "id": "10921308041"
+    },
+    {
+      "label": "Automatic Save ##",
+      "kind": "single",
+      "id": "10921310018"
+    },
+    {
+      "label": "PistolFire",
+      "kind": "single",
+      "id": "10921310039"
+    },
+    {
+      "label": "Fist_Equip",
+      "kind": "single",
+      "id": "10921310047"
+    },
+    {
+      "label": "Walk 1",
+      "kind": "single",
+      "id": "10921311841"
+    },
+    {
+      "label": "Shotgun (Fire)",
+      "kind": "single",
+      "id": "10921314733"
+    },
+    {
+      "label": "Locomotion_Werewolf_Swim",
+      "kind": "single",
+      "id": "10921340419"
+    },
+    {
+      "label": "Ilde animation [CHANNELS]",
+      "kind": "single",
+      "id": "10921340436"
+    },
+    {
+      "label": "Blue_Running",
+      "kind": "single",
+      "id": "10921341315"
+    },
+    {
+      "label": "Locomotion_Werewolf_SwimIdle",
+      "kind": "single",
+      "id": "10921341319"
+    },
+    {
+      "label": "Jump dive L",
+      "kind": "single",
+      "id": "10921358150"
+    },
+    {
+      "label": "RisingThunder",
+      "kind": "single",
+      "id": "10921358324"
+    },
+    {
+      "label": "Orange Run",
+      "kind": "single",
+      "id": "10921358385"
+    },
+    {
+      "label": "Paladin 4",
+      "kind": "single",
+      "id": "10921374162"
+    },
+    {
+      "label": "Gentle1",
+      "kind": "single",
+      "id": "10921374176"
+    },
+    {
+      "label": "[Lay Down]",
+      "kind": "single",
+      "id": "10921375512"
+    },
+    {
+      "label": "Down Animations_Dummy",
+      "kind": "single",
+      "id": "10921375551"
+    },
+    {
+      "label": "SDash",
+      "kind": "single",
+      "id": "10921393654"
+    },
+    {
+      "label": "fire",
+      "kind": "single",
+      "id": "10921393687"
+    },
+    {
+      "label": "CSW_R15",
+      "kind": "single",
+      "id": "10921399464"
+    },
+    {
+      "label": "KeyframeSequence",
+      "kind": "single",
+      "id": "10921399795"
+    },
+    {
+      "label": "walk",
+      "kind": "single",
+      "id": "10921407643"
+    },
+    {
+      "label": "walk3",
+      "kind": "single",
+      "id": "10921407688"
+    },
+    {
+      "label": "sl2 pistol equip",
+      "kind": "single",
+      "id": "10921407776"
+    },
+    {
+      "label": "Untitled-3__root|xsixx",
+      "kind": "single",
+      "id": "10921407866"
+    },
+    {
+      "label": "equip",
+      "kind": "single",
+      "id": "10921407931"
+    },
+    {
+      "label": "Sword Swing",
+      "kind": "single",
+      "id": "10921429624"
+    },
+    {
+      "label": "gera_b",
+      "kind": "single",
+      "id": "10921445780"
+    },
+    {
+      "label": "TransformAnim",
+      "kind": "single",
+      "id": "10921487302"
+    },
+    {
+      "label": "Claws-Idle",
+      "kind": "single",
+      "id": "10921487735"
+    },
+    {
+      "label": "TeacherIdle",
+      "kind": "single",
+      "id": "10921487783"
+    },
+    {
+      "label": "Become table",
+      "kind": "single",
+      "id": "10921487858"
+    },
+    {
+      "label": "Boxing 3rd",
+      "kind": "single",
+      "id": "10921487887"
+    },
+    {
+      "label": "Shield#######",
+      "kind": "single",
+      "id": "10921488119"
+    },
+    {
+      "label": "Idle",
+      "kind": "single",
+      "id": "10921488135"
+    },
+    {
+      "label": "Bamboo Stick Swing Animation",
+      "kind": "single",
+      "id": "10921489196"
+    },
+    {
+      "label": "ujhgj",
+      "kind": "single",
+      "id": "507766867"
+    },
+    {
+      "label": "Death Animation",
+      "kind": "single",
+      "id": "507768626"
+    },
+    {
+      "label": "jumper",
+      "kind": "single",
+      "id": "507768907"
+    },
+    {
+      "label": "Left Punch",
+      "kind": "single",
+      "id": "507769282"
+    },
+    {
+      "label": "Jumping",
+      "kind": "single",
+      "id": "507773608"
+    },
+    {
+      "label": "Fall",
+      "kind": "single",
+      "id": "507774477"
+    },
+    {
+      "label": "Idle",
+      "kind": "single",
+      "id": "507778893"
+    },
+    {
+      "label": "Moon Walk Slow",
+      "kind": "single",
+      "id": "507780075"
+    },
+    {
+      "label": "Moon Walk Fast",
+      "kind": "single",
+      "id": "507780835"
+    },
+    {
+      "label": "Kirby - Idle",
+      "kind": "single",
+      "id": "507784225"
+    },
+    {
+      "label": "Front flip",
+      "kind": "single",
+      "id": "507784688"
+    },
+    {
+      "label": "TEST",
+      "kind": "single",
+      "id": "507841580"
+    },
+    {
+      "label": "test",
+      "kind": "single",
+      "id": "507875188"
+    },
+    {
+      "label": "Bread Launcher:Idle Anim[FIXED]",
+      "kind": "single",
+      "id": "522635026"
+    },
+    {
+      "label": "Gun Flip",
+      "kind": "single",
+      "id": "522635056"
+    },
+    {
+      "label": "1",
+      "kind": "single",
+      "id": "522681456"
+    },
+    {
+      "label": "IDLE #2 V3 ",
+      "kind": "single",
+      "id": "616164709"
+    },
+    {
+      "label": "Zombie_Swim",
+      "kind": "single",
+      "id": "616165109"
+    },
+    {
+      "label": "Weapon Block ",
+      "kind": "single",
+      "id": "616165403"
+    },
+    {
+      "label": "Helicopter",
+      "kind": "single",
+      "id": "616165621"
+    },
+    {
+      "label": "Zombie_SwimIdle",
+      "kind": "single",
+      "id": "616166655"
+    },
+    {
+      "label": "Zombie_Walk",
+      "kind": "single",
+      "id": "616168032"
+    },
+    {
+      "label": "Meditation",
+      "kind": "single",
+      "id": "616172767"
+    },
+    {
+      "label": "SanSwordBomb",
+      "kind": "single",
+      "id": "616173104"
+    },
+    {
+      "label": "Katana slump hit",
+      "kind": "single",
+      "id": "616174058"
+    },
+    {
+      "label": "Joggin'",
+      "kind": "single",
+      "id": "616175507"
+    },
+    {
+      "label": "kick anim",
+      "kind": "single",
+      "id": "616175965"
+    },
+    {
+      "label": "Sword Test",
+      "kind": "single",
+      "id": "616177430"
+    },
+    {
+      "label": "Car",
+      "kind": "single",
+      "id": "616178969"
+    },
+    {
+      "label": "front flip v1",
+      "kind": "single",
+      "id": "616179087"
+    },
+    {
+      "label": "The Sad Ioathsome CV",
+      "kind": "single",
+      "id": "616180080"
+    },
+    {
+      "label": "POORLY MADE PUNCH ANIMATION",
+      "kind": "single",
+      "id": "616183109"
+    },
+    {
+      "label": "Ready",
+      "kind": "single",
+      "id": "616184317"
+    },
+    {
+      "label": "Dive Roll",
+      "kind": "single",
+      "id": "616184851"
+    },
+    {
+      "label": "Katana bullet hit",
+      "kind": "single",
+      "id": "616189381"
+    },
+    {
+      "label": "wewew",
+      "kind": "single",
+      "id": "616194586"
+    },
+    {
+      "label": "WolfWalk",
+      "kind": "single",
+      "id": "616194590"
+    },
+    {
+      "label": "IDLE #1 V4 [noloop/End]",
+      "kind": "single",
+      "id": "616195052"
+    },
+    {
+      "label": "Arabian",
+      "kind": "single",
+      "id": "616195171"
+    },
+    {
+      "label": "DaggerStab3",
+      "kind": "single",
+      "id": "616195501"
+    },
+    {
+      "label": "IDLE #2 V4 [noloop/End]",
+      "kind": "single",
+      "id": "616197098"
+    },
+    {
+      "label": "Katana deflect",
+      "kind": "single",
+      "id": "616200729"
+    },
+    {
+      "label": "walking",
+      "kind": "single",
+      "id": "616200751"
+    },
+    {
+      "label": "Strong Slash",
+      "kind": "single",
+      "id": "616201758"
+    },
+    {
+      "label": "blocking",
+      "kind": "single",
+      "id": "616201948"
+    },
+    {
+      "label": "R15 Animation",
+      "kind": "single",
+      "id": "616202551"
+    },
+    {
+      "label": "r15 pick up",
+      "kind": "single",
+      "id": "616202825"
+    },
+    {
+      "label": "velocity 9",
+      "kind": "single",
+      "id": "616204630"
+    },
+    {
+      "label": "IDLE #1 V5",
+      "kind": "single",
+      "id": "616205241"
+    },
+    {
+      "label": "R15 eat",
+      "kind": "single",
+      "id": "616205524"
+    },
+    {
+      "label": "SlashV1",
+      "kind": "single",
+      "id": "616205800"
+    },
+    {
+      "label": "IDLE #2 V5",
+      "kind": "single",
+      "id": "616206473"
+    },
+    {
+      "label": "Stance",
+      "kind": "single",
+      "id": "616207265"
+    },
+    {
+      "label": "R15 smash dive",
+      "kind": "single",
+      "id": "616210803"
+    },
+    {
+      "label": "Walking Animation 2.0",
+      "kind": "single",
+      "id": "616211102"
+    },
+    {
+      "label": "slashv2",
+      "kind": "single",
+      "id": "616212476"
+    },
+    {
+      "label": "Sword3",
+      "kind": "single",
+      "id": "616214103"
+    },
+    {
+      "label": "R15 flies",
+      "kind": "single",
+      "id": "616216055"
+    },
+    {
+      "label": "Walking animation 3.0",
+      "kind": "single",
+      "id": "616218080"
+    },
+    {
+      "label": "Attack 1",
+      "kind": "single",
+      "id": "616220294"
+    },
+    {
+      "label": "swing",
+      "kind": "single",
+      "id": "616220919"
+    },
+    {
+      "label": "IDLE #1 V6",
+      "kind": "single",
+      "id": "616221650"
+    },
+    {
+      "label": "R15 punch",
+      "kind": "single",
+      "id": "616222026"
+    },
+    {
+      "label": "Attack 2",
+      "kind": "single",
+      "id": "616223296"
+    },
+    {
+      "label": "Backflip",
+      "kind": "single",
+      "id": "616223707"
+    },
+    {
+      "label": "Jump Animation",
+      "kind": "single",
+      "id": "616223756"
+    },
+    {
+      "label": "Block",
+      "kind": "single",
+      "id": "616224055"
+    },
+    {
+      "label": "k",
+      "kind": "single",
+      "id": "616224812"
+    },
+    {
+      "label": "Frontflip",
+      "kind": "single",
+      "id": "616225028"
+    },
+    {
+      "label": "Stun",
+      "kind": "single",
+      "id": "616225688"
+    },
+    {
+      "label": "Test",
+      "kind": "single",
+      "id": "616225981"
+    },
+    {
+      "label": "fish walk",
+      "kind": "single",
+      "id": "616226301"
+    },
+    {
+      "label": "Fall anim",
+      "kind": "single",
+      "id": "616229661"
+    },
+    {
+      "label": "idle2",
+      "kind": "single",
+      "id": "616230302"
+    },
+    {
+      "label": "Idle",
+      "kind": "single",
+      "id": "616232449"
+    },
+    {
+      "label": "Sword4",
+      "kind": "single",
+      "id": "616233531"
+    },
+    {
+      "label": "idle1",
+      "kind": "single",
+      "id": "616233764"
+    },
+    {
+      "label": "Walk",
+      "kind": "single",
+      "id": "616236527"
+    },
+    {
+      "label": "Great Venodon Limping 1",
+      "kind": "single",
+      "id": "616238278"
+    },
+    {
+      "label": "Back Tuck.",
+      "kind": "single",
+      "id": "616238573"
+    },
+    {
+      "label": "Idle stand",
+      "kind": "single",
+      "id": "616238957"
+    },
+    {
+      "label": "Safety Stance",
+      "kind": "single",
+      "id": "616240608"
+    },
+    {
+      "label": "Running Animation",
+      "kind": "single",
+      "id": "616240876"
+    },
+    {
+      "label": "Double Frontflip",
+      "kind": "single",
+      "id": "616241532"
+    },
+    {
+      "label": "no animation",
+      "kind": "single",
+      "id": "616241808"
+    },
+    {
+      "label": "cool walk",
+      "kind": "single",
+      "id": "616242674"
+    },
+    {
+      "label": "Idle stand \"Fixed\"",
+      "kind": "single",
+      "id": "616242977"
+    },
+    {
+      "label": "#",
+      "kind": "single",
+      "id": "616243995"
+    },
+    {
+      "label": "Drop top",
+      "kind": "single",
+      "id": "616245695"
+    },
+    {
+      "label": "test",
+      "kind": "single",
+      "id": "750780630"
+    },
+    {
+      "label": "swim",
+      "kind": "single",
+      "id": "750780742"
+    },
+    {
+      "label": "Bendy look around/idle",
+      "kind": "single",
+      "id": "750781699"
+    },
+    {
+      "label": "R15 m16 fire",
+      "kind": "single",
+      "id": "750781768"
+    },
+    {
+      "label": "run 2 same i think",
+      "kind": "single",
+      "id": "750782263"
+    },
+    {
+      "label": "test",
+      "kind": "single",
+      "id": "750782740"
+    },
+    {
+      "label": "Pushup",
+      "kind": "single",
+      "id": "750783104"
+    },
+    {
+      "label": "SpinDoctorWriteOff",
+      "kind": "single",
+      "id": "750783402"
+    },
+    {
+      "label": "test",
+      "kind": "single",
+      "id": "750783444"
+    },
+    {
+      "label": "Engine on the Edge animation",
+      "kind": "single",
+      "id": "750783508"
+    },
+    {
+      "label": "SpinDoctorWalknReach",
+      "kind": "single",
+      "id": "750783984"
+    },
+    {
+      "label": "test",
+      "kind": "single",
+      "id": "750784669"
+    },
+    {
+      "label": "Slash",
+      "kind": "single",
+      "id": "750785419"
+    },
+    {
+      "label": "[R15] Noob Punch Anim1",
+      "kind": "single",
+      "id": "750785643"
+    },
+    {
+      "label": "looking animation",
+      "kind": "single",
+      "id": "750785738"
+    },
+    {
+      "label": "SWord attack ##",
+      "kind": "single",
+      "id": "750785786"
+    },
+    {
+      "label": "test",
+      "kind": "single",
+      "id": "750786077"
+    },
+    {
+      "label": "Bomb_Hold",
+      "kind": "single",
+      "id": "750786886"
+    },
+    {
+      "label": "#### ######### ####",
+      "kind": "single",
+      "id": "750787225"
+    },
+    {
+      "label": "AKNB",
+      "kind": "single",
+      "id": "750787542"
+    },
+    {
+      "label": "MachineGun_Idle",
+      "kind": "single",
+      "id": "750787817"
+    },
+    {
+      "label": "Makashi Idle",
+      "kind": "single",
+      "id": "750788691"
+    },
+    {
+      "label": "Makashi Atk1",
+      "kind": "single",
+      "id": "750789409"
+    },
+    {
+      "label": "#### ######### ####",
+      "kind": "single",
+      "id": "750789580"
+    },
+    {
+      "label": "Makashi Atk2",
+      "kind": "single",
+      "id": "750789661"
+    },
+    {
+      "label": "Makashi Atk3",
+      "kind": "single",
+      "id": "750789960"
+    },
+    {
+      "label": "Makashi Block",
+      "kind": "single",
+      "id": "750790217"
+    },
+    {
+      "label": "temp prone",
+      "kind": "single",
+      "id": "750790731"
+    },
+    {
+      "label": "ZOMBIE WALK!",
+      "kind": "single",
+      "id": "750790988"
+    },
+    {
+      "label": "Shi_Intro",
+      "kind": "single",
+      "id": "750791943"
+    },
+    {
+      "label": "[R15] Noob Punch Anim2",
+      "kind": "single",
+      "id": "750793148"
+    },
+    {
+      "label": "Shi_Introidle",
+      "kind": "single",
+      "id": "750793953"
+    },
+    {
+      "label": "gun holding anim r15",
+      "kind": "single",
+      "id": "750795005"
+    },
+    {
+      "label": "stun",
+      "kind": "single",
+      "id": "750796525"
+    },
+    {
+      "label": "templay",
+      "kind": "single",
+      "id": "750796900"
+    },
+    {
+      "label": "dash",
+      "kind": "single",
+      "id": "750797107"
+    },
+    {
+      "label": "R15 Slash 2 TRU",
+      "kind": "single",
+      "id": "750797238"
+    },
+    {
+      "label": "Thingy?",
+      "kind": "single",
+      "id": "750800830"
+    },
+    {
+      "label": "Idle #### #",
+      "kind": "single",
+      "id": "750801167"
+    },
+    {
+      "label": "WORKKKKKK ",
+      "kind": "single",
+      "id": "750801338"
+    },
+    {
+      "label": "Bomb_Throw",
+      "kind": "single",
+      "id": "750804536"
+    },
+    {
+      "label": "B1 Repair",
+      "kind": "single",
+      "id": "750805198"
+    },
+    {
+      "label": "Saber Strike take II",
+      "kind": "single",
+      "id": "750805365"
+    },
+    {
+      "label": "[SAO] Run!",
+      "kind": "single",
+      "id": "750805696"
+    },
+    {
+      "label": "slice",
+      "kind": "single",
+      "id": "750807024"
+    },
+    {
+      "label": "[SAO] Run Test 2",
+      "kind": "single",
+      "id": "750807402"
+    },
+    {
+      "label": "Jumping",
+      "kind": "single",
+      "id": "750808307"
+    },
+    {
+      "label": "####",
+      "kind": "single",
+      "id": "750808579"
+    },
+    {
+      "label": "Regal_Idle1",
+      "kind": "single",
+      "id": "750809515"
+    },
+    {
+      "label": "Dab",
+      "kind": "single",
+      "id": "750809623"
+    },
+    {
+      "label": "###### Run!",
+      "kind": "single",
+      "id": "750809789"
+    },
+    {
+      "label": "[Sao] Jump!",
+      "kind": "single",
+      "id": "750810112"
+    },
+    {
+      "label": "slice1",
+      "kind": "single",
+      "id": "750810339"
+    },
+    {
+      "label": "[Sao] Fall Animation!",
+      "kind": "single",
+      "id": "750810462"
+    },
+    {
+      "label": "Sword Slash",
+      "kind": "single",
+      "id": "750811833"
+    },
+    {
+      "label": "B2 Repair",
+      "kind": "single",
+      "id": "750811923"
+    },
+    {
+      "label": "Engine on the Edge walking animation...",
+      "kind": "single",
+      "id": "750812834"
+    },
+    {
+      "label": "LionLatchBuffaloRear",
+      "kind": "single",
+      "id": "750814414"
+    },
+    {
+      "label": "horizontal",
+      "kind": "single",
+      "id": "750817308"
+    },
+    {
+      "label": "Cap em",
+      "kind": "single",
+      "id": "750818093"
+    },
+    {
+      "label": "SwordIdle1",
+      "kind": "single",
+      "id": "750818230"
+    },
+    {
+      "label": "secondvertical",
+      "kind": "single",
+      "id": "750818280"
+    },
+    {
+      "label": "SwordIdle2",
+      "kind": "single",
+      "id": "750818899"
+    },
+    {
+      "label": "heli",
+      "kind": "single",
+      "id": "750819187"
+    },
+    {
+      "label": "Advanced_Walk1",
+      "kind": "single",
+      "id": "750819220"
+    },
+    {
+      "label": "tilted",
+      "kind": "single",
+      "id": "750820826"
+    },
+    {
+      "label": "#####",
+      "kind": "single",
+      "id": "750820926"
+    },
+    {
+      "label": "LionLatchBuffaloBack",
+      "kind": "single",
+      "id": "750821713"
+    },
+    {
+      "label": "vertical",
+      "kind": "single",
+      "id": "750822008"
+    },
+    {
+      "label": "bladechange",
+      "kind": "single",
+      "id": "750822873"
+    },
+    {
+      "label": "naruto5",
+      "kind": "single",
+      "id": "750824122"
+    },
+    {
+      "label": "Advanced_Run1",
+      "kind": "single",
+      "id": "750824824"
+    },
+    {
+      "label": "B3 Repair",
+      "kind": "single",
+      "id": "750825362"
+    },
+    {
+      "label": "Dab",
+      "kind": "single",
+      "id": "750826238"
+    },
+    {
+      "label": "Bring it in",
+      "kind": "single",
+      "id": "750826642"
+    },
+    {
+      "label": "Throw",
+      "kind": "single",
+      "id": "750827063"
+    },
+    {
+      "label": "idk",
+      "kind": "single",
+      "id": "750827730"
+    },
+    {
+      "label": "B4 Repair",
+      "kind": "single",
+      "id": "750828069"
+    },
+    {
+      "label": "B5 Repair",
+      "kind": "single",
+      "id": "750830776"
+    },
+    {
+      "label": "Baldis walk 1",
+      "kind": "single",
+      "id": "750831232"
+    },
+    {
+      "label": "Friend",
+      "kind": "single",
+      "id": "750831539"
+    },
+    {
+      "label": "Wall climb",
+      "kind": "single",
+      "id": "750831908"
+    },
+    {
+      "label": "############",
+      "kind": "single",
+      "id": "750832002"
+    },
+    {
+      "label": "Assasin Run",
+      "kind": "single",
+      "id": "750832393"
+    },
+    {
+      "label": "GetUp",
+      "kind": "single",
+      "id": "750832966"
+    },
+    {
+      "label": "LionLatchBuffNeck",
+      "kind": "single",
+      "id": "750833454"
+    },
+    {
+      "label": "my sword animation 1",
+      "kind": "single",
+      "id": "750833972"
+    },
+    {
+      "label": "my sword animation reloop",
+      "kind": "single",
+      "id": "750837148"
+    },
+    {
+      "label": "klayman dive",
+      "kind": "single",
+      "id": "750837557"
+    },
+    {
+      "label": "idle is # # n",
+      "kind": "single",
+      "id": "750837652"
+    },
+    {
+      "label": "Head up",
+      "kind": "single",
+      "id": "750838420"
+    },
+    {
+      "label": "Head down",
+      "kind": "single",
+      "id": "750839072"
+    },
+    {
+      "label": "trolllolololol",
+      "kind": "single",
+      "id": "750839904"
+    },
+    {
+      "label": "####",
+      "kind": "single",
+      "id": "750839960"
+    },
+    {
+      "label": "1",
+      "kind": "single",
+      "id": "750840136"
+    },
+    {
+      "label": "trollololl2",
+      "kind": "single",
+      "id": "750842760"
+    },
+    {
+      "label": "Defend1",
+      "kind": "single",
+      "id": "750842936"
+    },
+    {
+      "label": "gag",
+      "kind": "single",
+      "id": "750843696"
+    },
+    {
+      "label": "DUB",
+      "kind": "single",
+      "id": "750844031"
+    },
+    {
+      "label": "HeavyArmed Idle Remastered",
+      "kind": "single",
+      "id": "750845208"
+    },
+    {
+      "label": "Welcome",
+      "kind": "single",
+      "id": "750845374"
+    },
+    {
+      "label": "###",
+      "kind": "single",
+      "id": "750845664"
+    },
+    {
+      "label": "meditate(r15) ",
+      "kind": "single",
+      "id": "750845757"
+    },
+    {
+      "label": "Normal Walk remastered",
+      "kind": "single",
+      "id": "750846058"
+    },
+    {
+      "label": "Defend2",
+      "kind": "single",
+      "id": "750846533"
+    },
+    {
+      "label": "Hardcore 360",
+      "kind": "single",
+      "id": "750847156"
+    },
+    {
+      "label": "2",
+      "kind": "single",
+      "id": "750847754"
+    },
+    {
+      "label": "meditate r15",
+      "kind": "single",
+      "id": "750847821"
+    },
+    {
+      "label": "a1",
+      "kind": "single",
+      "id": "750849535"
+    },
+    {
+      "label": "a2",
+      "kind": "single",
+      "id": "750849664"
+    },
+    {
+      "label": "a3",
+      "kind": "single",
+      "id": "750849766"
+    },
+    {
+      "label": "a4",
+      "kind": "single",
+      "id": "750849884"
+    },
+    {
+      "label": "b1",
+      "kind": "single",
+      "id": "750849986"
+    },
+    {
+      "label": "b2",
+      "kind": "single",
+      "id": "750850097"
+    },
+    {
+      "label": "##",
+      "kind": "single",
+      "id": "750850220"
+    },
+    {
+      "label": "l2",
+      "kind": "single",
+      "id": "750850345"
+    },
+    {
+      "label": "##",
+      "kind": "single",
+      "id": "750850585"
+    },
+    {
+      "label": "NOOB RUN/WALK",
+      "kind": "single",
+      "id": "750850777"
+    },
+    {
+      "label": "part 2",
+      "kind": "single",
+      "id": "750850794"
+    },
+    {
+      "label": "p2a3",
+      "kind": "single",
+      "id": "750850887"
+    },
+    {
+      "label": "p2b1",
+      "kind": "single",
+      "id": "750851010"
+    },
+    {
+      "label": "(1)",
+      "kind": "single",
+      "id": "750851167"
+    },
+    {
+      "label": "p2l2",
+      "kind": "single",
+      "id": "750851264"
+    },
+    {
+      "label": "(2)",
+      "kind": "single",
+      "id": "750851404"
+    },
+    {
+      "label": "R15_run",
+      "kind": "single",
+      "id": "750851439"
+    },
+    {
+      "label": "my sword animation 1 redo ",
+      "kind": "single",
+      "id": "750851888"
+    },
+    {
+      "label": "Flip ",
+      "kind": "single",
+      "id": "750852600"
+    },
+    {
+      "label": "jelly layup",
+      "kind": "single",
+      "id": "750854655"
+    },
+    {
+      "label": "GetDown",
+      "kind": "single",
+      "id": "750854953"
+    },
+    {
+      "label": "klayman roll",
+      "kind": "single",
+      "id": "750855147"
+    },
+    {
+      "label": "LionLatchBuffSide",
+      "kind": "single",
+      "id": "750855496"
+    },
+    {
+      "label": "sword animation 1 redone",
+      "kind": "single",
+      "id": "750855568"
+    },
+    {
+      "label": "Mixamo Walking",
+      "kind": "single",
+      "id": "750858388"
+    },
+    {
+      "label": "sasasas",
+      "kind": "single",
+      "id": "750858558"
+    },
+    {
+      "label": "Run",
+      "kind": "single",
+      "id": "750859469"
+    },
+    {
+      "label": "Zombie idle",
+      "kind": "single",
+      "id": "750860009"
+    },
+    {
+      "label": "Defend3",
+      "kind": "single",
+      "id": "750861242"
+    },
+    {
+      "label": "runing!!!",
+      "kind": "single",
+      "id": "750861757"
+    },
+    {
+      "label": "Lobby_Walk",
+      "kind": "single",
+      "id": "750861875"
+    },
+    {
+      "label": "R15_FFlip",
+      "kind": "single",
+      "id": "750862407"
+    },
+    {
+      "label": "water",
+      "kind": "single",
+      "id": "750862512"
+    },
+    {
+      "label": "Rolling down teh hill boi",
+      "kind": "single",
+      "id": "750864499"
+    },
+    {
+      "label": "Rise",
+      "kind": "single",
+      "id": "750865818"
+    },
+    {
+      "label": "Punch",
+      "kind": "single",
+      "id": "750867724"
+    },
+    {
+      "label": "r15 punch 1",
+      "kind": "single",
+      "id": "750868010"
+    },
+    {
+      "label": "SLEEP",
+      "kind": "single",
+      "id": "750868490"
+    },
+    {
+      "label": "hand",
+      "kind": "single",
+      "id": "750869052"
+    },
+    {
+      "label": "r15 punch 2",
+      "kind": "single",
+      "id": "750869196"
+    },
+    {
+      "label": "Jet Pistol!",
+      "kind": "single",
+      "id": "750870281"
+    },
+    {
+      "label": "Prone 1",
+      "kind": "single",
+      "id": "750871553"
+    },
+    {
+      "label": "r15 kick 1",
+      "kind": "single",
+      "id": "750871910"
+    },
+    {
+      "label": "Chillin",
+      "kind": "single",
+      "id": "750872095"
+    },
+    {
+      "label": "R15_Fall",
+      "kind": "single",
+      "id": "750872917"
+    },
+    {
+      "label": "Water Slicer",
+      "kind": "single",
+      "id": "750873096"
+    },
+    {
+      "label": "##### #",
+      "kind": "single",
+      "id": "750873763"
+    },
+    {
+      "label": "leg spin 01",
+      "kind": "single",
+      "id": "750873910"
+    },
+    {
+      "label": "Test",
+      "kind": "single",
+      "id": "750874946"
+    },
+    {
+      "label": "r15 kick 2",
+      "kind": "single",
+      "id": "750875191"
+    },
+    {
+      "label": "Pistol...",
+      "kind": "single",
+      "id": "750875777"
+    },
+    {
+      "label": "northern_soul_spin_combo",
+      "kind": "single",
+      "id": "750875998"
+    },
+    {
+      "label": "Water Bubbles",
+      "kind": "single",
+      "id": "750876083"
+    },
+    {
+      "label": "backflip 01",
+      "kind": "single",
+      "id": "750876695"
+    },
+    {
+      "label": "gear second",
+      "kind": "single",
+      "id": "750877465"
+    },
+    {
+      "label": "leg spin 02",
+      "kind": "single",
+      "id": "750878425"
+    },
+    {
+      "label": "jump split 01",
+      "kind": "single",
+      "id": "750880828"
+    },
+    {
+      "label": "4",
+      "kind": "single",
+      "id": "750882060"
+    },
+    {
+      "label": "Animation",
+      "kind": "single",
+      "id": "750883509"
+    },
+    {
+      "label": "[Engine] Engine Run",
+      "kind": "single",
+      "id": "750884755"
+    },
+    {
+      "label": "########## Recoil",
+      "kind": "single",
+      "id": "750886098"
+    },
+    {
+      "label": "id",
+      "kind": "single",
+      "id": "750888117"
+    },
+    {
+      "label": "R15_Dash",
+      "kind": "single",
+      "id": "750888701"
+    },
+    {
+      "label": "Clash",
+      "kind": "single",
+      "id": "750888897"
+    },
+    {
+      "label": "######## ######### 01",
+      "kind": "single",
+      "id": "750889030"
+    },
+    {
+      "label": "Don't Mind",
+      "kind": "single",
+      "id": "750889445"
+    },
+    {
+      "label": "Water Jigsaw",
+      "kind": "single",
+      "id": "750890160"
+    },
+    {
+      "label": "Simple WALK",
+      "kind": "single",
+      "id": "750890490"
+    },
+    {
+      "label": "Fall",
+      "kind": "single",
+      "id": "750890637"
+    },
+    {
+      "label": "Jump",
+      "kind": "single",
+      "id": "750894088"
+    },
+    {
+      "label": "Sacrifice",
+      "kind": "single",
+      "id": "750894595"
+    },
+    {
+      "label": "Scale Slash",
+      "kind": "single",
+      "id": "750894975"
+    },
+    {
+      "label": "######## homie",
+      "kind": "single",
+      "id": "750896141"
+    },
+    {
+      "label": "Running animation",
+      "kind": "single",
+      "id": "750896935"
+    },
+    {
+      "label": "Water Lock",
+      "kind": "single",
+      "id": "750897428"
+    },
+    {
+      "label": "NINJA #####",
+      "kind": "single",
+      "id": "750898416"
+    },
+    {
+      "label": "jelly",
+      "kind": "single",
+      "id": "750898620"
+    },
+    {
+      "label": "B start",
+      "kind": "single",
+      "id": "750898678"
+    },
+    {
+      "label": "Frontflip",
+      "kind": "single",
+      "id": "750899256"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921017030"
+    },
+    {
+      "label": "z",
+      "kind": "single",
+      "id": "10921090618"
+    },
+    {
+      "label": "Imported Animation Clip",
+      "kind": "single",
+      "id": "10921090892"
+    },
+    {
+      "label": "fall xd",
+      "kind": "single",
+      "id": "10921103629"
+    },
+    {
+      "label": "Tentacles_FBXImportGeneric",
+      "kind": "single",
+      "id": "10921103659"
+    },
+    {
+      "label": "vegeta",
+      "kind": "single",
+      "id": "10921105296"
+    },
+    {
+      "label": "Untitled Animation Clip",
+      "kind": "single",
+      "id": "10921105299"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921108231"
+    },
+    {
+      "label": "t",
+      "kind": "single",
+      "id": "10921108296"
+    },
+    {
+      "label": "Test",
+      "kind": "single",
+      "id": "10921155547"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921168660"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921177651"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921177686"
+    },
+    {
+      "label": "Imported Animation Clip",
+      "kind": "single",
+      "id": "10921178085"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921197000"
+    },
+    {
+      "label": "Untitled Animation Clip",
+      "kind": "single",
+      "id": "10921197143"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921198229"
+    },
+    {
+      "label": "Test",
+      "kind": "single",
+      "id": "10921200233"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921210449"
+    },
+    {
+      "label": "Test",
+      "kind": "single",
+      "id": "10921219613"
+    },
+    {
+      "label": "Imported Animation Clip",
+      "kind": "single",
+      "id": "10921225154"
+    },
+    {
+      "label": "Test",
+      "kind": "single",
+      "id": "10921239530"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921245792"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921246514"
+    },
+    {
+      "label": "Untitled Animation Clip",
+      "kind": "single",
+      "id": "10921246561"
+    },
+    {
+      "label": "FeedAnimation",
+      "kind": "single",
+      "id": "10921248125"
+    },
+    {
+      "label": "Aim",
+      "kind": "single",
+      "id": "10921250534"
+    },
+    {
+      "label": "sonic parado parte #####",
+      "kind": "single",
+      "id": "10921255489"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921261434"
+    },
+    {
+      "label": "Test",
+      "kind": "single",
+      "id": "10921264815"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921264868"
+    },
+    {
+      "label": "Imported Animation Clip",
+      "kind": "single",
+      "id": "10921267124"
+    },
+    {
+      "label": "Test",
+      "kind": "single",
+      "id": "10921267607"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921267657"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921268330"
+    },
+    {
+      "label": "High dive L",
+      "kind": "single",
+      "id": "10921321044"
+    },
+    {
+      "label": "Untitled Animation Clip vvvvv",
+      "kind": "single",
+      "id": "10921347056"
+    },
+    {
+      "label": "calm walk",
+      "kind": "single",
+      "id": "10921347090"
+    },
+    {
+      "label": "Imported Animation Clip",
+      "kind": "single",
+      "id": "10921347310"
+    },
+    {
+      "label": "clipin",
+      "kind": "single",
+      "id": "10921352842"
+    },
+    {
+      "label": "GunReload1",
+      "kind": "single",
+      "id": "10921352884"
+    },
+    {
+      "label": "Idle",
+      "kind": "single",
+      "id": "10921352889"
+    },
+    {
+      "label": "newIdle02",
+      "kind": "single",
+      "id": "10921355568"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921355577"
+    },
+    {
+      "label": "Test",
+      "kind": "single",
+      "id": "10921358138"
+    },
+    {
+      "label": "Test",
+      "kind": "single",
+      "id": "10921374175"
+    },
+    {
+      "label": "Imported Animation Clip",
+      "kind": "single",
+      "id": "10921380701"
+    },
+    {
+      "label": "SL2 Pistol Idle",
+      "kind": "single",
+      "id": "10921411179"
+    },
+    {
+      "label": "Test",
+      "kind": "single",
+      "id": "10921411187"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921415173"
+    },
+    {
+      "label": "PhoenixIdle",
+      "kind": "single",
+      "id": "10921415586"
+    },
+    {
+      "label": "Panicking",
+      "kind": "single",
+      "id": "10921415647"
+    },
+    {
+      "label": "HeavySlice2",
+      "kind": "single",
+      "id": "10921415656"
+    },
+    {
+      "label": "idle1",
+      "kind": "single",
+      "id": "10921415675"
+    },
+    {
+      "label": "Test",
+      "kind": "single",
+      "id": "10921415720"
+    },
+    {
+      "label": "FlyBackward",
+      "kind": "single",
+      "id": "10921415753"
+    },
+    {
+      "label": "Imported Animation Clip",
+      "kind": "single",
+      "id": "10921415876"
+    },
+    {
+      "label": "fis",
+      "kind": "single",
+      "id": "10921415896"
+    },
+    {
+      "label": "Knife Idle",
+      "kind": "single",
+      "id": "10921416144"
+    },
+    {
+      "label": "Killer Root Figures Animation (idle)",
+      "kind": "single",
+      "id": "10921416351"
+    },
+    {
+      "label": "Untitled Animation Clip",
+      "kind": "single",
+      "id": "10921416377"
+    },
+    {
+      "label": "Take The L",
+      "kind": "single",
+      "id": "10921416391"
+    },
+    {
+      "label": "flamethrower",
+      "kind": "single",
+      "id": "10921416797"
+    },
+    {
+      "label": "FlyIdle",
+      "kind": "single",
+      "id": "10921416887"
+    },
+    {
+      "label": "idle1 anim2",
+      "kind": "single",
+      "id": "10921416895"
+    },
+    {
+      "label": "Imported Animation Clip",
+      "kind": "single",
+      "id": "10921487395"
+    },
+    {
+      "label": "Automatic Save",
+      "kind": "single",
+      "id": "10921487823"
+    }
+  ],
+  "emotes": [
+    {
+      "label": "Wave",
+      "kind": "single",
+      "id": "507770239"
+    },
+    {
+      "label": "Point",
+      "kind": "single",
+      "id": "507770453"
+    },
+    {
+      "label": "Laugh",
+      "kind": "single",
+      "id": "507770818"
+    },
+    {
+      "label": "Cheer",
+      "kind": "single",
+      "id": "507770677"
+    },
+    {
+      "label": "Dance 1A",
+      "kind": "single",
+      "id": "507771019"
+    },
+    {
+      "label": "Dance 1B",
+      "kind": "single",
+      "id": "507771955"
+    },
+    {
+      "label": "Dance 1C",
+      "kind": "single",
+      "id": "507772104"
+    },
+    {
+      "label": "Dance 2A",
+      "kind": "single",
+      "id": "507776043"
+    },
+    {
+      "label": "Dance 2B",
+      "kind": "single",
+      "id": "507776720"
+    },
+    {
+      "label": "Dance 2C",
+      "kind": "single",
+      "id": "507776879"
+    },
+    {
+      "label": "Dance 3A",
+      "kind": "single",
+      "id": "507777268"
+    },
+    {
+      "label": "Dance 3B",
+      "kind": "single",
+      "id": "507777451"
+    },
+    {
+      "label": "Dance 3C",
+      "kind": "single",
+      "id": "507777623"
+    },
+    {
+      "label": "Sit",
+      "kind": "single",
+      "id": "507768133"
+    },
+    {
+      "label": "Swim",
+      "kind": "single",
+      "id": "507784897"
+    },
+    {
+      "label": "Swim Idle",
+      "kind": "single",
+      "id": "507785072"
+    },
+    {
+      "label": "newnew wave",
+      "kind": "single",
+      "id": "507810728"
+    },
+    {
+      "label": "Sitting R15",
+      "kind": "single",
+      "id": "507814482"
+    },
+    {
+      "label": "Pose1 ngnl ",
+      "kind": "single",
+      "id": "507846310"
+    },
+    {
+      "label": "Pose2 ngnl",
+      "kind": "single",
+      "id": "507853801"
+    },
+    {
+      "label": "[SXPREME] Pose",
+      "kind": "single",
+      "id": "507853893"
+    },
+    {
+      "label": "Dance: Jive",
+      "kind": "single",
+      "id": "507854882"
+    },
+    {
+      "label": "Dance: Fistpump",
+      "kind": "single",
+      "id": "507856813"
+    },
+    {
+      "label": "Sitting ",
+      "kind": "single",
+      "id": "507875957"
+    },
+    {
+      "label": "Angry point",
+      "kind": "single",
+      "id": "522649010"
+    },
+    {
+      "label": "LeftFallPose",
+      "kind": "single",
+      "id": "10921099105"
+    },
+    {
+      "label": "R15IdleYawn",
+      "kind": "single",
+      "id": "507766951"
+    },
+    {
+      "label": "pose",
+      "kind": "single",
+      "id": "507780151"
+    },
+    {
+      "label": "Sit",
+      "kind": "single",
+      "id": "616180866"
+    },
+    {
+      "label": "sitting",
+      "kind": "single",
+      "id": "616212174"
+    },
+    {
+      "label": "Pose",
+      "kind": "single",
+      "id": "616225380"
+    },
+    {
+      "label": "SasukeUchihaPose",
+      "kind": "single",
+      "id": "616239863"
+    },
+    {
+      "label": "Sit anim",
+      "kind": "single",
+      "id": "616249403"
+    },
+    {
+      "label": "scared sitting",
+      "kind": "single",
+      "id": "750800341"
+    },
+    {
+      "label": "bow wave 01",
+      "kind": "single",
+      "id": "750882006"
+    },
+    {
+      "label": "Wave",
+      "kind": "single",
+      "id": "750888485"
+    },
+    {
+      "label": "Kinda laugh",
+      "kind": "single",
+      "id": "750897206"
+    },
+    {
+      "label": "Cheer",
+      "kind": "single",
+      "id": "750898397"
+    },
+    {
+      "label": "Draw Bow_TombRaiderThemedGame",
+      "kind": "single",
+      "id": "10921416715"
+    }
+  ]
+}
