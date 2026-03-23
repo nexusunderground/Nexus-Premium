@@ -1,0 +1,4 @@
+[nexus]
+version = "4.3.0"
+changelog = "Performance improvements and bug fixes"
+mandatory = false
