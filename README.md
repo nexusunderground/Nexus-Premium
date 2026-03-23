@@ -1,4 +1,5 @@
 # Nexus-Premium
+```
 ╔════════════════════════════════════════════════╗
 ║  ███╗   ██╗███████╗██╗  ██╗██╗   ██╗███████╗   ║
 ║  ████╗  ██║██╔════╝╚██╗██╔╝██║   ██║██╔════╝   ║
@@ -9,7 +10,7 @@
 ║          Developed by NexusUnderground         ║
 ║         'My crime is that of curiosity'        ║
 ╚════════════════════════════════════════════════╝
-
+```
 An external Roblox overlay built in Rust with a modern [egui](https://github.com/emilk/egui) interface.  
 This is the premium version. Join the Discord for full access.
 
