@@ -1,4 +1,4 @@
 [nexus]
-version = "4.4.3"
-changelog = "New features, performance improvements and bug fixes"
+version = "5.0.0"
+changelog = "New UI, enhanced features, New internal (in dev), performance improvements and bug fixes"
 mandatory = true
