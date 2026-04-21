@@ -1,4 +1,4 @@
 [nexus]
-version = "5.0.0"
+version = "5.0.1"
 changelog = "New UI, enhanced features, New internal (in dev), performance improvements and bug fixes"
 mandatory = true
