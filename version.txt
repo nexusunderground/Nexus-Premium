@@ -1,4 +1,4 @@
 [nexus]
-version = "5.0.2"
-changelog = " Updated features, performance improvements and bug fixes"
-mandatory = true
+version = "5.0.3"
+changelog = "Updated features, performance improvements and bug fixes - removed internal/injection"
+mandatory = false
