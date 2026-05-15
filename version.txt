@@ -1,4 +1,4 @@
 [nexus]
-version = "5.0.4"
+version = "5.0.5"
 changelog = "Updated features, performance improvements and bug fixes"
 mandatory = false
