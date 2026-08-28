@@ -1,4 +1,4 @@
 [nexus]
-version = "5.1.2"
-changelog = "Updated features, performance improvements and bug fixes"
+version = "5.2.0"
+changelog = "Compatible with Updated Roblox, Added Phantom forces - sorry for delay!"
 mandatory = false
