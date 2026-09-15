@@ -1,4 +1,4 @@
 [nexus]
-version = "5.5.0"
-changelog = "Compatible with Updated Roblox, New features"
+version = "5.5.1"
+changelog = "Compatible with Updated Roblox, New features - Magic Bullet & Dumpers"
 mandatory = false
