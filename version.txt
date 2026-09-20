@@ -1,4 +1,4 @@
 [nexus]
-version = "5.5.1"
-changelog = "Compatible with Updated Roblox, New features - Magic Bullet & Dumpers"
+version = "5.5.3"
+changelog = "Updates for Nexus - features, performance, etc "
 mandatory = false
