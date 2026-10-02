@@ -1,4 +1,4 @@
 [nexus]
-version = "5.5.6"
-changelog = "Updates for Nexus - features, performance, etc "
-mandatory = false
+version = "6.0.0"
+changelog = "HUGE UPDATE! New Menu, new improved features!"
+mandatory = true
