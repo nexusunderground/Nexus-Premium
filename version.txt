@@ -1,4 +1,4 @@
 [nexus]
-version = "6.0.2"
+version = "6.0.3"
 changelog = "HUGE UPDATE! New Menu, new improved features!"
 mandatory = true
